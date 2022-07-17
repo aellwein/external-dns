@@ -13,6 +13,7 @@ require (
 	github.com/IBM/go-sdk-core/v5 v5.8.0
 	github.com/IBM/networking-go-sdk v0.36.0
 	github.com/StackExchange/dnscontrol/v3 v3.27.1
+	github.com/aellwein/netcup-dns-api v1.0.3
 	github.com/akamai/AkamaiOPEN-edgegrid-golang v1.2.2
 	github.com/alecthomas/kingpin v2.2.5+incompatible
 	github.com/aliyun/alibaba-cloud-sdk-go v1.62.4
